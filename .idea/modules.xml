@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Service-registry/Service-registry.iml" filepath="$PROJECT_DIR$/Service-registry/Service-registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-Microservices.iml" filepath="$PROJECT_DIR$/SpringBoot-Microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/User-Service/User-Service.iml" filepath="$PROJECT_DIR$/User-Service/User-Service.iml" />
       <module fileurl="file://$PROJECT_DIR$/department-service/department-service.iml" filepath="$PROJECT_DIR$/department-service/department-service.iml" />
